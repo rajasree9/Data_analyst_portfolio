@@ -25,7 +25,7 @@ Analyzed 2,500+ sales records to evaluate revenue trends, regional performance, 
 - Calculated YoY growth
 - Built interactive Tableau dashboard
 
-🔗 [View Project](sales_performance_analysis)
+🔗 [View Project](Sales-Performance-Analysis)
 
 ---
 
